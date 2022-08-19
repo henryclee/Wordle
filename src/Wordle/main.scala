@@ -1,5 +1,0 @@
-package Wordle
-
-class main {
-
-}
